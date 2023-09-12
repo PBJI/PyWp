@@ -1,4 +1,4 @@
-# PyWp
+# PythonWhatsappAutomation
 Sending Automated Whatsapp Messages To Contacts Using Python.
 
 Contact Needs to be already saved in Your Phone
